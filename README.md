@@ -20,5 +20,11 @@ Librerias implementadas que no sean las indicadas en el curso:
 
 Estilos CSS particulares:
     En App.css aplico un par de estilos simples a las imagenes
-
-
+    
+Descargo de responsabilidad(Para visualizar en GitHub):
+    El presente proyecto de armado de un sitio web forma parte de un trabajo estudiantil con fines estrictamente educativos.
+    La tienda electrónica con nombre "Manga Storm" aquí expuesta es ficticia. De existir una, no se encuentra representada por este sitio
+    Este sitio NO persigue NINGUN beneficio económico.
+    Todos los precios aquí expuestos son ficticios.
+    Todas las imagenes utilizadas pertenecen a sus respectivos propietarios.                   
+    Este proyecto se dara de baja permanentemente al finalizar la cursada.
